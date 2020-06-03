@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_iframe">
+    <content_block_iframe action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <frame_name/>
+        <height>600</height>
+        <logged_on>false</logged_on>
+        <name>frame</name>
+        <sizing>fixed</sizing>
+        <sys_class_name>content_block_iframe</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 10:56:59</sys_created_on>
+        <sys_id>d3fc3a27dbc910106bce11203996194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>frame</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>content_block_iframe_d3fc3a27dbc910106bce11203996194a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 10:56:59</sys_updated_on>
+        <url>https://orf.at</url>
+        <width>400</width>
+    </content_block_iframe>
+</record_update>
